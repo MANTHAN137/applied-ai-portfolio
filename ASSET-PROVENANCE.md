@@ -6,3 +6,5 @@ Reviewed 25 October 2026, India time.
 - `assets/nexus-workbench.jpg`: existing public Nexus `workbench.jpg` image showing a browser design preview and included example workspace.
 
 No screenshot has been represented as a physical-device benchmark or a public store release. No personal database, model file, signing credential, account session or private report is part of this showcase. Application source licensing remains separate.
+
+- Orchestrator image: linked directly to the existing public `Local-AI-Agent-Orchestrator/docs/images/agents.png` asset. It is an existing project capture, not a new runtime validation.
